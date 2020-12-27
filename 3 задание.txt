@@ -1,0 +1,2 @@
+https://github.com/Skuldur/facenet-face-recognition/blob/master/facenet.py
+https://neurohive.io/ru/tutorial/raspoznavanie-lica-facenet/
